@@ -1,0 +1,14 @@
+ Insertion Sort: 
+ Best Case scenario: 		 Values of moves--> 0 		Values of comps--> 999 
+ Average Case scenario: 	 Values of moves--> 244788 	Values of comps--> 245787 
+ Worst Case scenario: 		 Values of moves--> 499500 	Values of comps--> 500499 
+ 
+Heap Sort: 
+ Best Case scenario: 		 Values of moves--> 29124 	Values of comps--> 20416 
+ Average Case scenario: 	 Values of moves--> 27189 	Values of comps--> 19126 
+ Worst Case scenario: 		 Values of moves--> 24948 	Values of comps--> 17632 
+ 
+Quick Sort: 
+ Best Case scenario: 		 Values of moves--> 0 			Values of comps--> 499500 
+ Average Case scenario: 	 Values of moves--> 15573 		Values of comps--> 10476 
+ Worst Case scenario: 		 Values of moves--> 1500 		Values of comps--> 499500 
